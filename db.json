@@ -124,7 +124,6 @@
 "documents": [
 {
 "type": "acte",
-"date_depot": "2020-08-04T00:00:00.000Z",
 "mentions": [
 "string"
 ]
@@ -133,7 +132,6 @@
 "publications": [
 {
 "type": "acte",
-"date": "2020-08-04T00:00:00.000Z",
 "contenu": "string",
 "mentions": [
 "string"
